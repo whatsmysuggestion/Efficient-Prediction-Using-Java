@@ -1,0 +1,15 @@
+jdbc-------------
+		type1 :- jdbc odbc Bridge
+		type2:- native api partly java driver
+		type3:- net protocol all java driver
+		type4:- native protocol all java driver
+		
+		
+		
+		
+
+
+
+
+
+
